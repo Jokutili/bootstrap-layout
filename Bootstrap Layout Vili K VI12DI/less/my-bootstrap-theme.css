@@ -1,0 +1,77 @@
+/*!
+ * Bootstrap v2.3.1
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ */
+
+.jumbotron {
+width: auto;
+height: 400px;
+margin-top: -20px;
+background-color: black;
+}
+
+.carousel {
+top: -48px;
+width: auto;
+background-color: rgba(228,228,228); 
+margin-left: -45px;
+margin-right: -30px;
+}
+
+.carousel-control {
+margin-left: 0px;
+margin-right: 0px;
+}
+
+.navbar-default {
+height: 100px;
+background-color: white;
+}
+
+.mynavbar {
+margin-top: 20px;
+left: auto;
+}
+
+.navbar-right {
+margin-top: 10px;
+}
+
+.navbar-brand {
+font-size: 20px;
+width: 260px;
+}
+
+li {
+font-size: 20px;
+margin-left: 40px;
+}
+
+.title {
+font-size: 20px;
+}
+
+.container-fluid {
+width: 70%;
+}
+
+.current-page {
+text-decoration: underline;
+}
+
+.middle {
+display: inline-block;
+text-align: center;
+}
+
+#contact {
+width: 400px;
+margin-left: 32%;
+margin-right: 32%;
+border-radius: 20px;
+background-color: white;
+}
